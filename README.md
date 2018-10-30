@@ -4,6 +4,7 @@ This problem considers a simplified rate schedule for car insurance.
 Relevant information:
 
 According to CarInsurance.com, the average annual base rates for a college driver (with 100/300/100 liability coverage) are:
+
 Age 	Average Annual Rate
 18        	$4,055
 19       		$2,842
